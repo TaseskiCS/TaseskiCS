@@ -3,6 +3,8 @@ Born 2005 Class of 2027
 
 👨‍🎓 Studying Computer Science(BSc)💻 at [Wilfrid Laurier University](https://www.wlu.ca)
 
+[Personal Website](https://antoniotaseski.com)
+
 
 ### Contact Info: ###
 Business Email: ```antoniotaseski.bus@hotmail.com```
