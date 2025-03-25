@@ -1,8 +1,9 @@
 ### About Me: ###
+![Views](https://komarev.com/ghpvc/?username=taseskics&label=Profile%20views&color=lightgrey&style=flat)
 
-👨‍🎓 2nd Year Computer Science(BSc)💻 at [Wilfrid Laurier University](https://www.wlu.ca)
+👨‍🎓 CS @ [WLU](https://www.wlu.ca) grad: 2027
 
-[Personal Website](https://antoniotaseski.com)
+[Website](https://antoniotaseski.com)
 
 
 ### Contact Info: ###
