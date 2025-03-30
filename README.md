@@ -12,7 +12,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=taseskics&label=Profile%20views&color=lightgrey&style=flat)
 
-- Computer Science @ [WLU](https://laurier.ca) '27
+- Computer Science @ [Wilfrid Laurier University](https://laurier.ca) '27
 
 
 <table>
